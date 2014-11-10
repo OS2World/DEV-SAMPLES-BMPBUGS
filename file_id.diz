@@ -1,0 +1,4 @@
+This is a sample program to show how
+WinDrawBitmaps (and other similar OS/2
+APIs) do not work correctly when they
+have to scale bitmaps.

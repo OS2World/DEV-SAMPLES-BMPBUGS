@@ -1,0 +1,23 @@
+        Archive Filename: htmlbook01.zip
+       Short Description: HtmlBook v. 0.1
+        Long Description: HtmlBook groups documentation made up
+                          by multiple html files, images and other
+                          files into a unique file which can then
+                          be viewed by any html viewer.
+      Proposed directory
+           for placement: /pub/os2/apps/internet/www/editors
+
+               Your name: Alessandro Cantatore
+           Email address: acantatore.at.tin.dot.it
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: http://xoomer.virgilio.it/acantato
+
+      Would you like the
+   contact email address
+    included in listings? no
+
+Operating System/Version: OS/2 Warp 3, 4, MCP, eCS
+ Additional requirements: ZIP.EXE and UNZIP.EXE installed in a
+                          %PATH% directory
+                Replaces: none

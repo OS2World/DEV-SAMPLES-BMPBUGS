@@ -1,0 +1,5 @@
+#include "test.h"
+
+ICON   1 test.ico
+BITMAP 1 test.bmp
+
